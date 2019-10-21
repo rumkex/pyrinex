@@ -1,0 +1,10 @@
+#ifndef LIBRINEX_CONFIG_H
+#define LIBRINEX_CONFIG_H
+
+#define BUFFER_SIZE 1024
+#define MAX_OBS_TYPES 32
+#define MAX_SATS 100
+
+#define SP3_MAX_SATS 85
+
+#endif //LIBRINEX_CONFIG_H
